@@ -25,7 +25,7 @@ GTA 5 ve benzeri oyunlar için gelişmiş, tespit edilmesi son derece zor bir ma
 - **Exception Handling:** Injection sırasında oluşabilecek tüm istisnalar ve hatalar için kapsamlı exception handling mekanizması mevcuttur.
 
 - **Platform Uyumluluğu:** Kod, hem 32-bit hem 64-bit Windows process'leri hedef alacak şekilde tasarlanmıştır. PEB, LDR ve diğer internal Windows yapıları doğrudan kullanılır.
-
+- **Keyfi Projemdir sadece boş zamanlarımda bakıp geliştireceğim,illegal amaçla kullanılamaz rehber niteliğinde hazırlanmıştır.
 ---
 
 ## Kullanım:
