@@ -1,6 +1,6 @@
 # 🚀 GTA5 Manual Map Injector
 
-GTA 5 ve benzeri oyunlar için geliştirilen, tespit edilmesi son derece zor bir **manual map DLL injector** altyapısıdır. Klasik LoadLibrary yöntemleri yerine, PE formatının tüm detaylarını (relocation, import, TLS, entry point) manuel olarak işler. Injection sonrası PE header ve izler bellekten silinir, DLL process modül listesinden kaldırılır. Anti-debug, anti-dump, şifreli yükleme ve stealth injection gibi gelişmiş teknikler için altyapı hazırdır. Kodlar açıklamasız, izsiz ve profesyonel şekilde hazırlanmıştır. Sadece kendi sunucumda ve test ortamlarında kullanmak üzere geliştirilmiştir.
+GTA 5 ve benzeri oyunlar için geliştirilen, tespit edilmesi son derece zor bir **manual map DLL injector** altyapısıdır. Klasik LoadLibrary yöntemleri yerine, PE formatının tüm detaylarını (relocation, import, TLS, entry point) manuel olarak işler. Injection sonrası PE header ve izler bellekten silinir, DLL process modül listesinden kaldırılır. Anti-debug, anti-dump, şifreli yükleme ve stealth injection gibi gelişmiş teknikler için altyapı hazırdır.Sadece kendi sunucumda ve test ortamlarında kullanmak üzere geliştirilmiştir.
 
 ---
 
